@@ -1,5 +1,6 @@
 <cfcomponent extends="base">
 	<cfscript>
+
 		function test_hoth(){
 			var mockHoth = mock();
 			var hothAdapter = '';
